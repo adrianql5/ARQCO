@@ -66,7 +66,3 @@ gcc -O2 -fopenmp -mavx -o jacobi_simd jacobi_simd.c
 
 - Adrián Quiroga Linares  
 - Xabier Novoa Gómez
-
-
-
-¿Te gustaría que prepare también una versión en inglés, o quieres añadir gráficos/resultados al READ
