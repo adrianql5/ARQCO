@@ -67,7 +67,6 @@ gcc -O2 -fopenmp -mavx -o jacobi_simd jacobi_simd.c
 - Adrián Quiroga Linares  
 - Xabier Novoa Gómez
 
-Trabajo desarrollado en el marco de la asignatura **Arquitectura de Computadores**, curso 2024–2025.
 
 
 ¿Te gustaría que prepare también una versión en inglés, o quieres añadir gráficos/resultados al READ
