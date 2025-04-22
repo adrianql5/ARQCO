@@ -2,8 +2,6 @@
 
 Repositorio de prácticas desarrolladas por **Adrián Quiroga Linares** y **Xabier Novoa Gómez** para la asignatura de **Arquitectura de Computadores**. Aquí se exploran aspectos clave del rendimiento computacional y comportamiento de memoria mediante programación en C y técnicas de análisis de bajo nivel.
 
----
-
 # Práctica 1: Accesos a Memoria y Efectos de Caché
 
 ## Objetivo
@@ -23,7 +21,6 @@ Analizar el coste temporal de accesos a memoria variando el patrón y tamaño de
   - Tipos `int` en vez de `double`.
   - Accesos directos en lugar de indirectos vía `ind[]`.
 
----
 
 ## Práctica 2: Método de Jacobi y Técnicas de Optimización
 
@@ -65,7 +62,6 @@ gcc -O2 -fopenmp -mavx -o jacobi_simd jacobi_simd.c
 ```
 
 
----
 # Autores
 
 - Adrián Quiroga Linares  
