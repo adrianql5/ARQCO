@@ -56,7 +56,7 @@ Implementar y analizar el método iterativo de **Jacobi** para resolver sistemas
 - Para cada configuración se hacen 15 medidas, seleccionando la **mediana**.
 
 
-## 🔧 Compilación y Ejecución
+## Compilación y Ejecución
 
 Ejemplo de compilación con GCC:
 ```bash
